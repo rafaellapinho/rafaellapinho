@@ -1,7 +1,7 @@
 ### Hi, I'm Rafaella Pinho 👋
 
 
-- 👩  I’m currently working with Front-end Development and I also with Google Analytics and Google Tag Manager.
+- 👩  I’m currently working with Front-end Development and also with Google Analytics and Google Tag Manager.
 
   
 <div style="display: inline_block"><br>
