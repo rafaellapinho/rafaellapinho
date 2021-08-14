@@ -1,7 +1,7 @@
 ### Hi, I'm Rafaella Pinho 👋
 
 
-- 🔭 I’m currently working with Front-end Development
+- 👩  I’m currently working with Front-end Development and I also with Google Analytics and Google Tag Manager.
 
 <div>
   <a href="https://github.com/rafaellapinho">
